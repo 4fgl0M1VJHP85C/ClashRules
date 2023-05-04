@@ -1,0 +1,761 @@
+proxies:
+  - {name: 🇭🇰 B00 香港, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39012, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 B01 香港, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39006, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 B02 香港*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39002, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 B03 香港*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39001, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 B04 香港*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39277, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 B10 台湾*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39013, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 B20 日本*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39008, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 B21 日本*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39004, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 B22 日本*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39003, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇰🇷 B30 韩国, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39005, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇺🇸 B40 美国*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39011, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 B50 新加坡*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39007, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 B51 新加坡*, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39009, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 B52 新加坡, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39014, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D00 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39275, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D01 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39155, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D02 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39344, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D03 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39348, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D04 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39415, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 D05 香港*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39318, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇭🇰 D06 香港C* [0.8]", server: test3.bilibilis0.one, port: 39485, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 D11 台湾*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39401, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 D12 台湾*, server: ip3901824624.mobgslb.tbcache.com, port: 39402, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 D13 台湾*, server: ip3901824624.mobgslb.tbcache.com, port: 39403, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 D14 台湾*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39404, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇳 D15 台湾, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39403, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 D21 日本*, server: 576d37c2.ksyungslb.com.ksyungslb.xyz, port: 39411, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 D22 日本*, server: 576d37c2.ksyungslb.com.ksyungslb.xyz, port: 39424, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 D23 日本*, server: 576d37c2.ksyungslb.com.ksyungslb.xyz, port: 39114, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 D24 日本*, server: 576d37c2.ksyungslb.com.ksyungslb.xyz, port: 39439, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇯🇵 D25 日本*, server: 576d37c2.ksyungslb.com.ksyungslb.xyz, port: 39230, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇯🇵 D27 日本P [3]", server: cn-hz-bilicdn.cyberfunn.xyz, port: 39244, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇰🇷 D31 韩国, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39384, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇰🇷 D32 韩国, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39487, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇺🇸 D40 美国*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39346, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇺🇸 D41 美国*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39367, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇺🇸 D42 美国*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39325, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇺🇸 D43 美国*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39375, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇲🇾 D50 马来西亚, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39378, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇲🇾 D51 马来西亚, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39342, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 D52 新加坡*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39442, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 D53 新加坡*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39413, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇬 D54 新加坡*, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39429, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇭🇰 E0 香港实验性, server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39325, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇯🇵 GAME 上海-日本 [40]", server: iplc-jp3.cloudiplc.com, port: 21000, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇭🇰 GAME 东莞-香港 [10]", server: ip1013212115.mobgslb.tbcache.com, port: 58173, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇭🇰 GAME 广州-香港 [10]", server: ip1013212115.mobgslb.tbcache.com, port: 11623, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: H60 乌克兰, server: sp.bilibilis0.one, port: 39811, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇮🇱 H60 以色列, server: sp.bilibilis0.one, port: 39810, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇷🇺 H60 俄罗斯, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39149, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇮🇸 H60 冰岛 [2]", server: sp.bilibilis0.one, port: 39820, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇦 H60 加拿大, server: sp.bilibilis0.one, port: 39815, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇿🇦 H60 南非 [3]", server: sp.bilibilis0.one, port: 39818, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇱🇺 H60 卢森堡BT [0.8]", server: cn-hz-bilicdn.cyberfunn.xyz, port: 39479, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇮🇩 H60 印尼, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39443, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇮🇳 H60 印度, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39326, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇹🇷 H60 土耳其 [3]", server: sp.bilibilis0.one, port: 39814, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇪🇬 H60 埃及 [10]", server: sp.bilibilis0.one, port: 39816, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇵🇰 H60 巴基斯坦 [5]", server: sp.bilibilis0.one, port: 39822, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇧🇷 H60 巴西 [3]", server: sp.bilibilis0.one, port: 39804, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇩🇪 H60 德国, server: sp.bilibilis0.one, port: 39808, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇩🇪 H60 德国2, server: sp.bilibilis0.one, port: 39823, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇮🇹 H60 意大利, server: sp.bilibilis0.one, port: 39819, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇳🇴 H60 挪威, server: sp.bilibilis0.one, port: 39800, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇲🇩 H60 摩尔多瓦, server: sp.bilibilis0.one, port: 39817, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇫🇷 H60 法国, server: sp.bilibilis0.one, port: 39809, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇹🇭 H60 泰国, server: sp.bilibilis0.one, port: 39803, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇦🇺 H60 澳大利亚, server: sp.bilibilis0.one, port: 39807, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇲🇴 H60 澳门 [3]", server: stream-hefei-cmcc-111-36-21-3.edgesrv.com.edgesrv.xyz, port: 39098, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇮🇪 H60 爱尔兰, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39472, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇸🇪 H60 瑞典, server: sp.bilibilis0.one, port: 39805, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇨🇭 H60 瑞士, server: sp.bilibilis0.one, port: 39801, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇬🇧 H60 英国1, server: 3bc8b278.ksyungslb.com.ksyungslb.xyz, port: 39434, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇬🇧 H60 英国2, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39322, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇳🇱 H60 荷兰, server: sp.bilibilis0.one, port: 39802, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇵🇭 H60 菲律宾 [3]", server: sp.bilibilis0.one, port: 39812, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇪🇸 H60 西班牙 [3]", server: sp.bilibilis0.one, port: 39821, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: 🇻🇳 H60 越南, server: cn-hz-bilicdn.cyberfunn.xyz, port: 39407, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+  - {name: "🇦🇷 H60 阿根廷 [3]", server: sp.bilibilis0.one, port: 39813, type: ssr, cipher: chacha20-ietf, password: GhQrDS, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 194386:58525331Dd, obfs-param: bilivideo.com, udp: true}
+proxy-groups:
+  - name: 🚀 Manual
+    type: select
+    proxies:
+      - 🇭🇰 B00 香港
+      - 🇭🇰 B01 香港
+      - 🇭🇰 B02 香港*
+      - 🇭🇰 B03 香港*
+      - 🇭🇰 B04 香港*
+      - 🇨🇳 B10 台湾*
+      - 🇯🇵 B20 日本*
+      - 🇯🇵 B21 日本*
+      - 🇯🇵 B22 日本*
+      - 🇰🇷 B30 韩国
+      - 🇺🇸 B40 美国*
+      - 🇸🇬 B50 新加坡*
+      - 🇸🇬 B51 新加坡*
+      - 🇸🇬 B52 新加坡
+      - 🇭🇰 D00 香港*
+      - 🇭🇰 D01 香港*
+      - 🇭🇰 D02 香港*
+      - 🇭🇰 D03 香港*
+      - 🇭🇰 D04 香港*
+      - 🇭🇰 D05 香港*
+      - 🇭🇰 D06 香港C* [0.8]
+      - 🇨🇳 D11 台湾*
+      - 🇨🇳 D12 台湾*
+      - 🇨🇳 D13 台湾*
+      - 🇨🇳 D14 台湾*
+      - 🇨🇳 D15 台湾
+      - 🇯🇵 D21 日本*
+      - 🇯🇵 D22 日本*
+      - 🇯🇵 D23 日本*
+      - 🇯🇵 D24 日本*
+      - 🇯🇵 D25 日本*
+      - 🇯🇵 D27 日本P [3]
+      - 🇰🇷 D31 韩国
+      - 🇰🇷 D32 韩国
+      - 🇺🇸 D40 美国*
+      - 🇺🇸 D41 美国*
+      - 🇺🇸 D42 美国*
+      - 🇺🇸 D43 美国*
+      - 🇲🇾 D50 马来西亚
+      - 🇲🇾 D51 马来西亚
+      - 🇸🇬 D52 新加坡*
+      - 🇸🇬 D53 新加坡*
+      - 🇸🇬 D54 新加坡*
+      - 🇭🇰 E0 香港实验性
+      - 🇯🇵 GAME 上海-日本 [40]
+      - 🇭🇰 GAME 东莞-香港 [10]
+      - 🇭🇰 GAME 广州-香港 [10]
+      - H60 乌克兰
+      - 🇮🇱 H60 以色列
+      - 🇷🇺 H60 俄罗斯
+      - 🇮🇸 H60 冰岛 [2]
+      - 🇨🇦 H60 加拿大
+      - 🇿🇦 H60 南非 [3]
+      - 🇱🇺 H60 卢森堡BT [0.8]
+      - 🇮🇩 H60 印尼
+      - 🇮🇳 H60 印度
+      - 🇹🇷 H60 土耳其 [3]
+      - 🇪🇬 H60 埃及 [10]
+      - 🇵🇰 H60 巴基斯坦 [5]
+      - 🇧🇷 H60 巴西 [3]
+      - 🇩🇪 H60 德国
+      - 🇩🇪 H60 德国2
+      - 🇮🇹 H60 意大利
+      - 🇳🇴 H60 挪威
+      - 🇲🇩 H60 摩尔多瓦
+      - 🇫🇷 H60 法国
+      - 🇹🇭 H60 泰国
+      - 🇦🇺 H60 澳大利亚
+      - 🇲🇴 H60 澳门 [3]
+      - 🇮🇪 H60 爱尔兰
+      - 🇸🇪 H60 瑞典
+      - 🇨🇭 H60 瑞士
+      - 🇬🇧 H60 英国1
+      - 🇬🇧 H60 英国2
+      - 🇳🇱 H60 荷兰
+      - 🇵🇭 H60 菲律宾 [3]
+      - 🇪🇸 H60 西班牙 [3]
+      - 🇻🇳 H60 越南
+      - 🇦🇷 H60 阿根廷 [3]
+  - name: ✈️ International
+    type: select
+    proxies:
+      - 🇸🇬 Singapore
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇯🇵 Japan
+      - 🇺🇲 America
+      - 🇰🇷 Korea
+      - 🚀 Manual
+      - DIRECT
+  - name: 🎮 Steam
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 America
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🎮 EA
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 America
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🎮 Nintendo
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 America
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🎶 Spotify
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 HongKong
+  - name: 🎶 Qobuz
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 America
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🎯 Domestic
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🛑 Malwares
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🎥 Netflix
+    type: select
+    proxies:
+      - 🇸🇬 Singapore
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇯🇵 Japan
+      - 🇺🇲 America
+      - 🇰🇷 Korea
+      - 🚀 Manual
+      - DIRECT
+  - name: 📺 Bahamut
+    type: select
+    proxies:
+      - 🇨🇳 TaiWan
+      - 🚀 Manual
+      - DIRECT
+  - name: 🍎 Apple
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 America
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🐟 Others
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - 🇭🇰 HongKong
+      - 🇨🇳 TaiWan
+      - 🇸🇬 Singapore
+      - 🇯🇵 Japan
+      - 🇺🇲 America
+      - 🇰🇷 Korea
+      - 🚀 Manual
+  - name: 🇭🇰 HongKong
+    type: select
+    proxies:
+      - 🇭🇰 B00 香港
+      - 🇭🇰 B01 香港
+      - 🇭🇰 B02 香港*
+      - 🇭🇰 B03 香港*
+      - 🇭🇰 B04 香港*
+      - 🇭🇰 D00 香港*
+      - 🇭🇰 D01 香港*
+      - 🇭🇰 D02 香港*
+      - 🇭🇰 D03 香港*
+      - 🇭🇰 D04 香港*
+      - 🇭🇰 D05 香港*
+      - 🇭🇰 D06 香港C* [0.8]
+      - 🇭🇰 E0 香港实验性
+      - 🇭🇰 GAME 东莞-香港 [10]
+      - 🇭🇰 GAME 广州-香港 [10]
+  - name: 🇯🇵 Japan
+    type: select
+    proxies:
+      - 🇯🇵 B20 日本*
+      - 🇯🇵 B21 日本*
+      - 🇯🇵 B22 日本*
+      - 🇯🇵 D21 日本*
+      - 🇯🇵 D22 日本*
+      - 🇯🇵 D23 日本*
+      - 🇯🇵 D24 日本*
+      - 🇯🇵 D25 日本*
+      - 🇯🇵 D27 日本P [3]
+      - 🇯🇵 GAME 上海-日本 [40]
+  - name: 🇺🇲 America
+    type: select
+    proxies:
+      - 🇺🇸 B40 美国*
+      - 🇺🇸 D40 美国*
+      - 🇺🇸 D41 美国*
+      - 🇺🇸 D42 美国*
+      - 🇺🇸 D43 美国*
+  - name: 🇨🇳 TaiWan
+    type: select
+    proxies:
+      - 🇨🇳 B10 台湾*
+      - 🇨🇳 D11 台湾*
+      - 🇨🇳 D12 台湾*
+      - 🇨🇳 D13 台湾*
+      - 🇨🇳 D14 台湾*
+      - 🇨🇳 D15 台湾
+  - name: 🇸🇬 Singapore
+    type: select
+    proxies:
+      - 🇸🇬 B50 新加坡*
+      - 🇸🇬 B51 新加坡*
+      - 🇸🇬 B52 新加坡
+      - 🇸🇬 D52 新加坡*
+      - 🇸🇬 D53 新加坡*
+      - 🇸🇬 D54 新加坡*
+  - name: 🇰🇷 Korea
+    type: select
+    proxies:
+      - 🇰🇷 B30 韩国
+      - 🇰🇷 D31 韩国
+      - 🇰🇷 D32 韩国
+rules:
+- "RULE-SET,Mercy,\U0001F3AF Domestic"
+- "RULE-SET,Advertising,\U0001F6D1 Malwares"
+- "RULE-SET,Hijacking,\U0001F6D1 Malwares"
+- "RULE-SET,Privacy,\U0001F6D1 Malwares"
+- "RULE-SET,Alibaba,\U0001F3AF Domestic"
+- "RULE-SET,APPShare,\U0001F3AF Domestic"
+- "RULE-SET,BiliBili,\U0001F3AF Domestic"
+- "RULE-SET,Buff,\U0001F3AF Domestic"
+- "RULE-SET,CloudCN,\U0001F3AF Domestic"
+- "RULE-SET,CoolAPK,\U0001F3AF Domestic"
+- "RULE-SET,Heybox,\U0001F3AF Domestic"
+- "RULE-SET,JingDong,\U0001F3AF Domestic"
+- "RULE-SET,LanZouYun,\U0001F3AF Domestic"
+- "RULE-SET,Pinduoduo,\U0001F3AF Domestic"
+- "RULE-SET,RuanMei,\U0001F3AF Domestic"
+- "RULE-SET,Sina,\U0001F3AF Domestic"
+- "RULE-SET,SteamCN,\U0001F3AF Domestic"
+- "RULE-SET,Tencent,\U0001F3AF Domestic"
+- "RULE-SET,WeChat,\U0001F3AF Domestic"
+- "RULE-SET,Zhihu,\U0001F3AF Domestic"
+- "RULE-SET,360,\U0001F6D1 Malwares"
+- "RULE-SET,Baidu,\U0001F6D1 Malwares"
+- "RULE-SET,ByteDance,\U0001F6D1 Malwares"
+- "RULE-SET,Huawei,\U0001F6D1 Malwares"
+- "RULE-SET,JiGuangTuiSong,\U0001F6D1 Malwares"
+- "RULE-SET,Kingsoft,\U0001F6D1 Malwares"
+- "RULE-SET,KuaiShou,\U0001F6D1 Malwares"
+- "RULE-SET,MeiZu,\U0001F6D1 Malwares"
+- "RULE-SET,NetEase,\U0001F6D1 Malwares"
+- "RULE-SET,OPPO,\U0001F6D1 Malwares"
+- "RULE-SET,Qualcomm,\U0001F6D1 Malwares"
+- "RULE-SET,Vivo,\U0001F6D1 Malwares"
+- "RULE-SET,XiaoMi,\U0001F6D1 Malwares"
+- RULE-SET,Cloudflare,✈️ International
+- RULE-SET,CloudGlobal,✈️ International
+- RULE-SET,Discord,✈️ International
+- RULE-SET,GitHub,✈️ International
+- RULE-SET,Google,✈️ International
+- RULE-SET,GoogleFCM,✈️ International
+- RULE-SET,Microsoft,✈️ International
+- RULE-SET,Mozilla,✈️ International
+- RULE-SET,OneDrive,✈️ International
+- RULE-SET,Pixiv,✈️ International
+- RULE-SET,Reddit,✈️ International
+- RULE-SET,Telegram,✈️ International
+- RULE-SET,Twitter,✈️ International
+- RULE-SET,Wikipedia,✈️ International
+- RULE-SET,Xbox,✈️ International
+- RULE-SET,YouTube,✈️ International
+- "RULE-SET,Steam,\U0001F3AE Steam"
+- "RULE-SET,EA,\U0001F3AE EA"
+- "RULE-SET,Nintendo,\U0001F3AE Nintendo"
+- "RULE-SET,Spotify,\U0001F3B6 Spotify"
+- "RULE-SET,Qobuz,\U0001F3B6 Qobuz"
+- "RULE-SET,Apple,\U0001F34E Apple"
+- "RULE-SET,Netflix,\U0001F3A5 Netflix"
+- "RULE-SET,Bahamut,\U0001F4FA Bahamut"
+- "RULE-SET,ChinaIPs,\U0001F3AF Domestic"
+- "RULE-SET,ChinaMax,\U0001F3AF Domestic"
+- RULE-SET,Global,✈️ International
+- "DST-PORT,80,\U0001F41F Others"
+- "DST-PORT,443,\U0001F41F Others"
+- "DST-PORT,22,\U0001F41F Others"
+- MATCH,DIRECT
+rule-providers:
+  Mercy:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/niming1424/ClashConfigs/main/Rules/Mercy.yaml
+    path: "./rule_provider/Mercy.yaml"
+    interval: 86400
+  Hijacking:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hijacking/Hijacking.yaml
+    path: "./rule_provider/Hijacking.yaml"
+    interval: 86400
+  Privacy:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy_Classical.yaml
+    path: "./rule_provider/Privacy.yaml"
+    interval: 86400
+  Alibaba:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Alibaba/Alibaba_Classical.yaml
+    path: "./rule_provider/Alibaba.yaml"
+    interval: 86400
+  APPShare:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/niming1424/ClashConfigs/main/Rules/APPShare.yaml
+    path: "./rule_provider/APPShare.yaml"
+    interval: 86400
+  BiliBili:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml
+    path: "./rule_provider/BiliBili.yaml"
+    interval: 86400
+  Buff:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/niming1424/ClashConfigs/main/Rules/Buff.yaml
+    path: "./rule_provider/Buff.yaml"
+    interval: 86400
+  CloudCN:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudCN/CloudCN.yaml
+    path: "./rule_provider/CloudCN.yaml"
+    interval: 86400
+  CoolAPK:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/niming1424/ClashConfigs/main/Rules/CoolAPK.yaml
+    path: "./rule_provider/CoolAPK.yaml"
+    interval: 86400
+  Heybox:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/niming1424/ClashConfigs/main/Rules/Heybox.yaml
+    path: "./rule_provider/Heybox.yaml"
+    interval: 86400
+  JingDong:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JingDong/JingDong.yaml
+    path: "./rule_provider/JingDong.yaml"
+    interval: 86400
+  LanZouYun:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LanZouYun/LanZouYun.yaml
+    path: "./rule_provider/LanZouYun.yaml"
+    interval: 86400
+  Pinduoduo:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pinduoduo/Pinduoduo.yaml
+    path: "./rule_provider/Pinduoduo.yaml"
+    interval: 86400
+  RuanMei:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/RuanMei/RuanMei.yaml
+    path: "./rule_provider/RuanMei.yaml"
+    interval: 86400
+  Sina:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sina/Sina.yaml
+    path: "./rule_provider/Sina.yaml"
+    interval: 86400
+  SteamCN:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.yaml
+    path: "./rule_provider/SteamCN.yaml"
+    interval: 86400
+  Tencent:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.yaml
+    path: "./rule_provider/Tencent.yaml"
+    interval: 86400
+  WeChat:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.yaml
+    path: "./rule_provider/WeChat.yaml"
+    interval: 86400
+  Zhihu:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Zhihu/Zhihu.yaml
+    path: "./rule_provider/Zhihu.yaml"
+    interval: 86400
+  360:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/360.yaml
+    path: "./rule_provider/360.yaml"
+    interval: 86400
+  Baidu:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Baidu/Baidu.yaml
+    path: "./rule_provider/Baidu.yaml"
+    interval: 86400
+  ByteDance:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ByteDance/ByteDance.yaml
+    path: "./rule_provider/ByteDance.yaml"
+    interval: 86400
+  Huawei:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Huawei/Huawei.yaml
+    path: "./rule_provider/Huawei.yaml"
+    interval: 86400
+  JiGuangTuiSong:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JiGuangTuiSong/JiGuangTuiSong.yaml
+    path: "./rule_provider/JiGuangTuiSong.yaml"
+    interval: 86400
+  Kingsoft:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Kingsoft/Kingsoft.yaml
+    path: "./rule_provider/Kingsoft.yaml"
+    interval: 86400
+  KuaiShou:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KuaiShou/KuaiShou.yaml
+    path: "./rule_provider/KuaiShou.yaml"
+    interval: 86400
+  MeiZu:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeiZu/MeiZu.yaml
+    path: "./rule_provider/MeiZu.yaml"
+    interval: 86400
+  NetEase:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEase/NetEase.yaml
+    path: "./rule_provider/NetEase.yaml"
+    interval: 86400
+  OPPO:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OPPO/OPPO.yaml
+    path: "./rule_provider/OPPO.yaml"
+    interval: 86400
+  Qualcomm:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Qualcomm/Qualcomm.yaml
+    path: "./rule_provider/Qualcomm.yaml"
+    interval: 86400
+  Vivo:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Vivo/Vivo.yaml
+    path: "./rule_provider/Vivo.yaml"
+    interval: 86400
+  XiaoMi:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XiaoMi/XiaoMi.yaml
+    path: "./rule_provider/XiaoMi.yaml"
+    interval: 86400
+  Cloudflare:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare.yaml
+    path: "./rule_provider/Cloudflare.yaml"
+    interval: 86400
+  CloudGlobal:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal_Classical.yaml
+    path: "./rule_provider/CloudGlobal.yaml"
+    interval: 86400
+  Discord:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Discord/Discord.yaml
+    path: "./rule_provider/Discord.yaml"
+    interval: 86400
+  GitHub:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.yaml
+    path: "./rule_provider/GitHub.yaml"
+    interval: 86400
+  Google:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml
+    path: "./rule_provider/Google.yaml"
+    interval: 86400
+  GoogleFCM:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.yaml
+    path: "./rule_provider/GoogleFCM.yaml"
+    interval: 86400
+  Microsoft:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
+    path: "./rule_provider/Microsoft.yaml"
+    interval: 86400
+  Mozilla:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mozilla/Mozilla.yaml
+    path: "./rule_provider/Mozilla.yaml"
+    interval: 86400
+  OneDrive:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml
+    path: "./rule_provider/OneDrive.yaml"
+    interval: 86400
+  Pixiv:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pixiv/Pixiv.yaml
+    path: "./rule_provider/Pixiv.yaml"
+    interval: 86400
+  Reddit:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Reddit/Reddit.yaml
+    path: "./rule_provider/Reddit.yaml"
+    interval: 86400
+  Telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
+    path: "./rule_provider/Telegram.yaml"
+    interval: 86400
+  Twitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml
+    path: "./rule_provider/Twitter.yaml"
+    interval: 86400
+  Wikipedia:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikipedia/Wikipedia.yaml
+    path: "./rule_provider/Wikipedia.yaml"
+    interval: 86400
+  Xbox:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.yaml
+    path: "./rule_provider/Xbox.yaml"
+    interval: 86400
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
+    path: "./rule_provider/YouTube.yaml"
+    interval: 86400
+  Steam:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml
+    path: "./rule_provider/Steam.yaml"
+    interval: 86400
+  EA:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.yaml
+    path: "./rule_provider/EA.yaml"
+    interval: 86400
+  Nintendo:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.yaml
+    path: "./rule_provider/Nintendo.yaml"
+    interval: 86400
+  Spotify:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml
+    path: "./rule_provider/Spotify.yaml"
+    interval: 86400
+  Qobuz:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Qobuz/Qobuz.yaml
+    path: "./rule_provider/Qobuz.yaml"
+    interval: 86400
+  Apple:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml
+    path: "./rule_provider/Apple.yaml"
+    interval: 86400
+  Netflix:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml
+    path: "./rule_provider/Netflix.yaml"
+    interval: 86400
+  Bahamut:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.yaml
+    path: "./rule_provider/Bahamut.yaml"
+    interval: 86400
+  Advertising:
+    type: http
+    behavior: classical
+    path: "./rule_provider/Advertising.yaml"
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Classical.yaml
+    interval: 86400
+  ChinaIPs:
+    type: http
+    behavior: classical
+    path: "./rule_provider/ChinaIPs.yaml"
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml
+    interval: 86400
+  ChinaMax:
+    type: http
+    behavior: classical
+    path: "./rule_provider/ChinaMax.yaml"
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
+    interval: 86400
+  Global:
+    type: http
+    behavior: classical
+    path: "./rule_provider/Global.yaml"
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Classical.yaml
+    interval: 86400
