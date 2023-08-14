@@ -2,4 +2,4 @@ payload:
  - DOMAIN,channels.wexin.qq.com
  - DOMAIN,szshort.wexin.qq.com
  - DOMAIN,szminorshort.weixin.qq.com
- - DOMAIN-KEYWORD,video.qq.com
+ - DOMAIN-SUFFIX,video.qq.com
