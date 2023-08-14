@@ -1,3 +1,5 @@
 payload:
  - DOMAIN,channels.wexin.qq.com
  - DOMAIN,szshort.wexin.qq.com
+ - DOMAIN,szminorshort.qq.com
+ - DOMAIN,findergdtyy.video.qq.com
