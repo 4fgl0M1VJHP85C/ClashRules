@@ -3,3 +3,4 @@ payload:
  - DOMAIN-SUFFIX,szshort.weixin.qq.com
  - DOMAIN-SUFFIX,szminorshort.weixin.qq.com
  - DOMAIN-SUFFIX,video.qq.com
+ - DST-PORT,8000
