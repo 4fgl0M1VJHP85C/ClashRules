@@ -12,3 +12,4 @@ payload:
  - DOMAIN-SUFFIX,wappass.baidu.com
  - DOMAIN-SUFFIX,bdstatic.com
  - DOMAIN-SUFFIX,gameloft.com
+ - DOMAIN,cn.app.chat.xiaomi.net
