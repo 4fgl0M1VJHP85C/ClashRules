@@ -1,5 +1,8 @@
 payload:
   - DOMAIN-KEYWORD,toutiao
   - DOMAIN-KEYWORD,frameplay
-  - DOMAIN-KEYWORD,jvod
-  - DOMAIN-KEYWORD,guangguang
+  - DOMAIN-SUFFIX,m.jd.com
+  - DOMAIN,mars.jd.com
+  - DOMAIN,knicks.jd.com
+  - DOMAIN-SUFFIX,300hu.com
+  - DOMAIN-KEYWORD,cloudvideocdn
