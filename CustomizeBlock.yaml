@@ -1,4 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,toutiao
   - DOMAIN-KEYWORD,frameplay
+  - DOMAIN-SUFFIX,300hu.com
   - DOMAIN-KEYWORD,cloudvideocdn
