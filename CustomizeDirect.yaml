@@ -13,4 +13,4 @@ payload:
  - DOMAIN-SUFFIX,bdstatic.com
  - DOMAIN,cn.app.chat.xiaomi.net
  - DOMAIN,d3g.qq.com
- - DOMAIN,sportal.cfau.edu.cn
+ - DOMAIN-KEYWORD,cfau
