@@ -17,4 +17,4 @@ payload:
  - DOMAIN-KEYWORD,163yun
  - DOMAIN,cstaticdun.126.net
  - DOMAIN,music.163.com
- - DOMAIN,p1.music.126.net
+ - DOMAIN-SUFFIX,music.126.net
