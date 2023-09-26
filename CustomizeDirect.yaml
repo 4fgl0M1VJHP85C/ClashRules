@@ -18,3 +18,4 @@ payload:
  - DOMAIN,cstaticdun.126.net
  - DOMAIN,music.163.com
  - DOMAIN-SUFFIX,music.126.net
+ - DOMAIN-KEYWORD,dun
