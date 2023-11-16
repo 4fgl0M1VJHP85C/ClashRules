@@ -7,6 +7,7 @@ payload:
  - DOMAIN-SUFFIX,baidupcs.com
  - DOMAIN-SUFFIX,bcebos.com
  - DOMAIN-SUFFIX,panpic.baidu.com
+ - DOMAIN-SUFFIX,sofire.baidu.com
  - DOMAIN-SUFFIX,tieba.baidu.com
  - DOMAIN-SUFFIX,tiebapic.baidu.com
  - DOMAIN-SUFFIX,wappass.baidu.com
