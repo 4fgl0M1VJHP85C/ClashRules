@@ -1,10 +1,4 @@
 payload:
  - DOMAIN-KEYWORD,ouo
- - DOMAIN-KEYWORD,myreadingmanga
- - DOMAIN-KEYWORD,hitomi
- - DOMAIN-KEYWORD,paoluz
- - DOMAIN-KEYWORD,paradox-interactive
- - DOMAIN-SUFFIX,eu
- - DOMAIN-SUFFIX,cambridge.org
  - IP-CIDR,8.8.8.8/32
  - IP-CIDR,8.8.4.4/32
