@@ -10,7 +10,7 @@ payload:
  - DOMAIN-SUFFIX,tiebapic.baidu.com
  - DOMAIN-SUFFIX,wappass.baidu.com
  - DOMAIN-SUFFIX,bdstatic.com
- - DOMAIN,cn.app.chat.xiaomi.net
+ - DOMAIN-SUFFIX,app.chat.xiaomi.net
  - DOMAIN,d3g.qq.com
  - DOMAIN-KEYWORD,cfau
  - DOMAIN-KEYWORD,163yun
