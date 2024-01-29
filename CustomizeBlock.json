@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "dataflow.biliapi.com",
         "msg.ptqy.gitv.tv"
       ]
     }
