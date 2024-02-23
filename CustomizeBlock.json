@@ -6,6 +6,9 @@
         "dataflow.biliapi.com",
         "doh.ptqy.gitv.tv",
         "msg.ptqy.gitv.tv"
+      ],
+      "ip_cidr": [
+        "114.114.114.114"
       ]
     }
   ]
