@@ -2,3 +2,5 @@ payload:
   - DOMAIN-KEYWORD,toutiao
   - DOMAIN-KEYWORD,frameplay
   - DOMAIN,doh.ptqy.gitv.tv
+  - IP-CIDR,44.44.44.44/32
+  - IP-CIDR,::4444/128
