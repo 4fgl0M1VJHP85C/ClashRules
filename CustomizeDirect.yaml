@@ -12,6 +12,7 @@ payload:
  - DOMAIN-SUFFIX,bdstatic.com
  - DOMAIN,cn.app.chat.xiaomi.net
  - DOMAIN,cn.register.xmpush.xiaomi.com
+ - DOMAIN,resolver.msg.xiaomi.net
  - DOMAIN,d3g.qq.com
  - DOMAIN-KEYWORD,cfau
  - IP-CIDR,223.5.5.5/32,no-resolve
